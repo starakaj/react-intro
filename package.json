@@ -9,6 +9,7 @@
     "watch": "NODE_ENV=development node server.js"
   },
   "dependencies": {
+    "chance": "^1.1.7",
     "express": "^4.16.4",
     "jsx-loader": "^0.13.2",
     "react": "^16.8.6",
